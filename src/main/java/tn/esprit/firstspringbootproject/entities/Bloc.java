@@ -23,7 +23,7 @@ public class Bloc implements Serializable {
     @ManyToOne
     Foyer foyer ;
     @ManyToOne
-    chambre c1;
+    Chambre c1;
 
 
 }
